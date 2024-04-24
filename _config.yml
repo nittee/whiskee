@@ -1,13 +1,21 @@
 # Site Settings
-name: Serv
-title: NotServin't
-description: A random shit about random shit.
+name: Whiskee
+title: Whiskee Blogs
+description: Warehouse of 
+  Hyperactive 
+  Ideas 
+  Spanning 
+  Knowledge 
+  Extracted from the 
+  Endless valley of caffeine-infused, boredom-amplified, curiosity
 tags:
-  - grace+icay
-  - QA+blog
-  - techblog
-  - grayinfilm
-  - gray+in+film
+  - blog
+  - ideas
+  - stories
+  - random
+  - science
+  - technology
+  - philosophy
 show_hero: true
 menu:
   - title: Home
