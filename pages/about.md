@@ -27,7 +27,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Nearos is the Greek translation for young or youthful. However, I am not young 
 nor youthful, yet, youthful is my name for my name is youthful!
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="/assets/img/uploads/servin-profile.png" alt="fauxsealindistress" width="200">
 
 ## FauxSealInDistress
 
