@@ -20,9 +20,9 @@ Warehouse of Hyperactive Ideas Spanning Knowledge Extracted from the Endless val
 Nearos is the Greek translation for young or youthful. However, I am not young 
 nor youthful, yet, youthful is my name for my name is youthful!
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="/assets/img/uploads/servin-profile.png" alt="fauxsealindistress" width="200">
 
-## [penname ni servin]
+## FauxSealInDistress
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
