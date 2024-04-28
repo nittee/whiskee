@@ -26,11 +26,12 @@ nor youthful, yet, youthful is my name for my name is youthful!
 
 ## FauxSealInDistress
 
-Not a seal <br>
+Mix of water, spaghetti, pcb, rubber duck, feather and fur, mud, grease, and sweat all while voiding entropy with the least amount of action. Pull my finger to know more.
+<!-- Not a seal <br>
 Yet a little bit distressed; <br>
 Craving to be saved from a tower, <br>
 Hugged by another, <br>
-Before being fossilize to rest.
+Before being fossilize to rest. -->
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Willow" width="200">
 
