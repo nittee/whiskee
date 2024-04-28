@@ -22,14 +22,14 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Links
-    url: /links
-  - title: Recs
-    url: /recs
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+  # - title: Links
+  #   url: /links
+  # - title: Recs
+  #   url: /recs
+  # - title: Contact
+  #   url: /contact
+  # - title: Feed
+  #   url: /feed.xml
 email: 
 
 # Social Media Settings

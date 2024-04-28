@@ -7,16 +7,9 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
-
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Warehouse of Hyperactive Ideas Spanning Knowledge Extracted from the Endless valley of caffeine-infused, boredom-amplified, curiosity
 
 
 
@@ -27,7 +20,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Nearos is the Greek translation for young or youthful. However, I am not young 
 nor youthful, yet, youthful is my name for my name is youthful!
 
-<img class="img-rounded" src="..\assets\img\uploads\servin-profile.png" alt="fauxsealindistress" width="200">
+<!-- <img class="img-rounded" src="..\assets\img\uploads\servin-profile.png" alt="fauxsealindistress" width="200"> -->
+<img class="img-rounded" src="https://media.tenor.com/Ca_g67wPVHoAAAAe/wide-awake-sloth.png" alt="fauxsealindistress" width="200">
 
 
 ## FauxSealInDistress
@@ -38,13 +32,8 @@ Craving to be saved from a tower, <br>
 Hugged by another, <br>
 Before being fossilize to rest.
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Willow" width="200">
 
-## [penname ni emmerson]
+## Willow
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A little turtle. Carrying a will-powered pocket sun. Traversing the dark and vast forest with utmost wonder.
