@@ -4,7 +4,7 @@ layout: post
 title: The Internet as Alternative Outside World for Children
 subtitle: By Willow
 description: A short musing about children's safety on the internet
-image: https://drive.google.com/file/d/1QV9MvtAtGoJxP7GBFmJ0UgGq-lgVaPNs/preview
+image: https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYlq9G9ed8Fd49Y9mRGv_4ssTaa-6nbsra5nG52OMb-amm1VFGZEu4h4K6fUCyD67rlPwvzqLKwXX1nLV0I-L-fjxwpZdc4L_0=w1366-h639
 category: blog
 tags:
   - social-issues
