@@ -4,7 +4,7 @@ layout: post
 title: Tips on Starting a New Thing
 subtitle: By Willow
 description: Tips on starting a new hobby or something
-image: https://lh3.googleusercontent.com/drive-viewer/AKGpihaXr4T5HBAd7cJi7yqCXS_-Dzmb9zrqo21eAfjDSWFtX__b3kwdYc8iz6iJ6Q6yZ2b9pyqTEV4Qv0bDan2gTblIOsMFVppkaXU=w1366-h639
+image: https://drive.google.com/file/d/1zf__uvxeKS03ELVSmJmZGIXxbA3ITjYh/preview
 category: blog
 tags:
   - hobby
