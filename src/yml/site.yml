@@ -1,26 +1,27 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Whiskee
+title: Whiskee
+description: Warehouse of Hyperactive Ideas Spanning Knowledge Extracted from the Endless valley of caffeine-infused, boredom-amplified, curiosity
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - ideas
+  - stories
+  - random
+  - science
+  - technology
+  - philosophy
 show_hero: true
 menu:
   - title: Home
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
+  # - title: Contact
+  #   url: /contact
+  # - title: Feed
+  #   url: /feed.xml
+# email: youremail@test.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+# disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id
