@@ -16,7 +16,6 @@ paginate: true
 *We've been trying to start this blog for quite a while, thinking of the best first blog. How do we start???*
 
 <br>
-<br>
 
 **Just do the goddamn thing :))**
 

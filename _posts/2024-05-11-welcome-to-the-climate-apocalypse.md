@@ -18,7 +18,6 @@ paginate: true
 *Not a fear mongering doomsday BS. Just a long ass rant about the weather.*
 
 <br>
-<br>
 
 In April 2022, I remember social media exploding with environmentalist discourse centered on climate change, under the hashtag #LetTheEarthBreathe. On April 15, 2022, local newspaper Inquirer reported that the hashtag soared to the top in Twitter Philippines, with about one and a half million tweets. This was in solidarity to thousands of scientists all over the world staging a protest on April 6 in the same year. It was a response to the report that the Intergovernmental Panel on Climate Change dropped. It almost sounded like a final warning. According to the report, we only have a few years before the planet passes the so-called threshold (reaching 1.5 degrees Celsius higher than pre-industrial temperatures) and all hell breaks loose. Now, year 2024, it has already broken loose. And we - at least us Filipinos - all feel the scorching inferno that the science people are warning everyone about.
 

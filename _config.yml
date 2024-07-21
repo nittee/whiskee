@@ -17,8 +17,8 @@ menu:
     url: /about
   # - title: Contact
   #   url: /contact
-  # - title: Feed
-  #   url: /feed.xml
+  - title: Feed
+    url: /feed.xml
 # email: youremail@test.com
 # See: https://disqus.com/
 # disqus_username: disqus_username
@@ -29,7 +29,7 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: nittee
+github_username: nittee/whiskee
 facebook_username: 
 twitter_username: 
 instagram_username: 
