@@ -15,7 +15,6 @@ paginate: true
 *[Image by brgfx on Freepik] Done as a little task for my academic organization: UP Volunteers for Children :))*
 
 <br>
-<br>
 
 #### The Internet is an Alternative Outside World
 
