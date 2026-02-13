@@ -13,6 +13,8 @@ author: nearos
 paginate: true
 ---
 
+*[Photo by Glenn Carstens-Peters on Unsplash]*
+
 <br>
 
 *A letter to oneself.*
