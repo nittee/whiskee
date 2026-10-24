@@ -4,7 +4,7 @@ layout: post
 title: How I Almost Got Into an MLM
 subtitle: By Willow
 description: A personal experience with MLM recruitment
-image: https://res.cloudinary.com/dqwb0kcii/image/upload/v1721546625/24-07-21-money.jpg
+image: https://res.cloudinary.com/dqwb0kcii/image/upload/q_auto/f_auto/v1721546625/whiskee/24-07-21-money.jpg
 category: blog
 tags:
   - story
@@ -67,8 +67,8 @@ Jumbo wrote a bunch of numbers, telling me about Baloney’s “membership” an
 
 I was hesitant to give him names. It's a bit of a creepy thing to ask to be honest, business talk or not. But I eventually gave him four names. Jumbo mad me write those names in the aforementioned paper. He told me that I'll try to sell them Baloney’s products. I knew my family and friends wouldn't buy their products, no matter how much qualifications they have, because they're crazy expensive. There are tons of cheaper and more available alternatives, some of which are used at my own home. Also, I wouldn't want to freaking advertise products to my family and friends.
 
-![side 1](https://res.cloudinary.com/dqwb0kcii/image/upload/v1721552226/24-07-21-mlm-paper-side-1.jpg "side 1")
-![side 2](https://res.cloudinary.com/dqwb0kcii/image/upload/v1721552225/24-07-21-mlm-paper-side-2.jpg "side 2")
+![side 1](https://res.cloudinary.com/dqwb0kcii/image/upload/q_auto/f_auto/v1721552226/whiskee/24-07-21-mlm-paper-side-1.jpg "side 1")
+![side 2](https://res.cloudinary.com/dqwb0kcii/image/upload/q_auto/f_auto/v1721552225/whiskee/24-07-21-mlm-paper-side-2.jpg "side 2")
 *Actual photos of the paper that we used that night. Jumbo let me keep it. Names written are blurred.*
 
 When I told Jumbo I don't think I could do that, he enthusiastically calculated how much I would earn if they bought the products. He made me produce more names, telling me how much money I would get even if only a certain percentage of them bought the product. I realized I'd have to advertise the products to every person I know and maybe even strangers. But Jumbo kept assuring me that he'll guide me.

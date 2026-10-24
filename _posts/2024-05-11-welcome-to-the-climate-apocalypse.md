@@ -4,7 +4,7 @@ layout: post
 title: Welcome to the Climate Apocalypse
 subtitle: By Willow
 description: An anecdote about global warming in the Philippines
-image: https://res.cloudinary.com/dqwb0kcii/image/upload/v1720526786/24-05-11-philippines_fire_nation_ns3r86.jpg
+image: https://res.cloudinary.com/dqwb0kcii/image/upload/q_auto/f_auto/v1720526786/whiskee/24-05-11-philippines_fire_nation_ns3r86.jpg
 category: blog
 tags:
   - science
@@ -31,7 +31,7 @@ And perhaps that's the reason why I never questioned the global warming thing. B
 
 The Philippines has 2 seasons, wet and dry. But most people would add another distinct "season": cool season.
 
-![Philippines seasons graph](https://res.cloudinary.com/dqwb0kcii/image/upload/v1720526787/24-05-11-philippines_seasons_i6ggm4.png "Philippines seasons compared to other places")
+![Philippines seasons graph](https://res.cloudinary.com/dqwb0kcii/image/upload/q_auto/f_auto/v1720526787/whiskee/24-05-11-philippines_seasons_i6ggm4.png "Philippines seasons compared to other places")
 
 It's early May right now, part of the blazing dry season in the country. There were occasional rains lately, but it only made the concrete landscape here steam like a burning coal that got sprayed on. The heat would usually get this damp quality, featuring the classic earthly smell when it rains and the sensation of being inside an air fryer. Nonetheless, the occasional rains were welcomed, despite being so meager that they barely made the ground wet. In Philippine culture, the first rain in May is believed to be miraculous, with some claiming that it can cure minor illnesses. I guess I can see why anyone would call the first raindrops after a scorching month miraculous.
 
@@ -41,7 +41,7 @@ The biggest thing I wanted to point out is the jump. I've always observed that s
 
 The numbers that I would see wouldn't lie too. The local weather agency, PAGASA (Philippine Atmospheric Geophysical and Astronomical Services Administration), logged a streak of days with dangerous heat indices ("feels like" temperatures), going as high as an astounding 50 degrees Celsius. Manila alone reached an all-time record of a feverish 38.8 degrees Celsius, with a sizzling heat index of 45 degrees Celsius. Looking outwards to the bigger picture, the records also show that the global temperature does rise steadily. And yes, the jump is captured by the data as well. The line graph soars with a rising angle. In fact, 2023 is hailed as the globally hottest year since 1850 (and according to them, likely a hundred thousand years ago) by the EU climate monitors - with temperatures almost crossing the aforementioned threshold. In the Philippines, PAGASA recorded 2023 as the 11th hottest.
 
-![Manila temperature graph](https://res.cloudinary.com/dqwb0kcii/image/upload/v1720526786/24-05-11-monthly_ave_temps_manila_vxakph.png "Monthly average temperature in manila, Philippines (2013-2024)")
+![Manila temperature graph](https://res.cloudinary.com/dqwb0kcii/image/upload/q_auto/f_auto/v1720526786/whiskee/24-05-11-monthly_ave_temps_manila_vxakph.png "Monthly average temperature in manila, Philippines (2013-2024)")
 *I made a shitty graph with Excel and data from timeanddate.com. it's surprisingly hard to look for such data on the web lol.*
 
 ![placeholder](https://wmo.int/sites/default/files/styles/prose_1x/public/2024-05/timeseries_era5_monthly_global_surface_temperature_anomalies_ref1850-1900_1940-2024_allmonths.png?itok=RJjjFupa "Monthly global surface air temperatures (April 2024 update)")

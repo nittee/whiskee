@@ -68,7 +68,7 @@ As mentioned earlier, the music video captured the overall vibe of the movie. We
   </p>
   
   <p style="font-style: italic;">
-    <img src="https://res.cloudinary.com/dqwb0kcii/image/upload/v1769771324/Screenshot_2026-01-30_190742_fxln0x.png">
+    <img src="https://res.cloudinary.com/dqwb0kcii/image/upload/q_auto/f_auto/v1769771324/whiskee/Screenshot_2026-01-30_190742_fxln0x.png">
     *My fave Mastani look in the movie, the pink and green here is just so slayy*
   </p>
 
@@ -81,7 +81,7 @@ As mentioned earlier, the music video captured the overall vibe of the movie. We
   </p>
 
   <p style="font-style: italic;">
-    <img src="https://res.cloudinary.com/dqwb0kcii/image/upload/v1769770759/Screenshot_2026-01-30_185655_q8qjap.png">
+    <img src="https://res.cloudinary.com/dqwb0kcii/image/upload/q_auto/f_auto/v1769770759/whiskee/Screenshot_2026-01-30_185655_q8qjap.png">
     *My fave shot, portraying a beautiful -- and heartbreaking -- scene of Kashi crying in a paradise garden-like setting. It looks like a painting!*
   </p>
 
